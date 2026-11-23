@@ -1,0 +1,10 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+
+        System.out.println("Hello World!");
+
+        System.out.println("Welcome to my Java Programming Journey.");
+
+        System.out.println("I am learning Java step by step.");
+    }
+}
